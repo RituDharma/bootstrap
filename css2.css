@@ -1,0 +1,46 @@
+body{
+	background-image: url("photo/back3.png");
+	background-size: cover;
+}
+img{
+
+	 width: 250px;
+	 height: 250px;
+	 padding-bottom: 10px;
+	 padding-right: 5px;
+	 /*border: solid;*/
+
+}
+h1{
+	padding-top: 5px;
+	font-size: 40px;
+	font-family: /*Forte Algerian Castellar Jokerman  MV Boli*/ Pristina;
+	text-decoration: underline; 
+}
+
+   p{
+    	color: black;
+    	font-size: 20px;
+    	padding-left: 10px;
+    }
+
+	
+.first{
+	  margin-top: 10px;
+}
+    
+.sec{
+	margin-top: 10px;
+	margin-left: 0px;
+
+}       
+.btn{
+	  margin: 10px 10px 10px 10px;
+	 
+}          
+   
+ .linkimg{
+ 	height: 350px; 
+ 	width: 350px;
+
+ }
