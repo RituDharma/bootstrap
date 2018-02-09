@@ -1,0 +1,100 @@
+body{
+	background-image: url("../photo/back4.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+ li a:hover{
+	border-bottom: 5px solid;
+    border-bottom-color: #d64104;
+    
+}
+h1 {
+    text-decoration-line: underline;
+    text-decoration-color: white;
+    font-family: forte;
+    /*font-size: 45px;*/
+    
+}
+
+h3{
+	font-family: forte;
+}
+em
+{
+   color: white;
+   font-size: 30px;	
+}
+ .jumbotron{
+
+	background-color: transparent !important;
+    color: orangered/*#FF5733 */ ; 
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom-color: white;
+
+}
+nav{
+	font-size: 20px;
+	font-weight: bold;
+    position: relative;
+    color: orangered;
+    background-color: black;
+}
+hr{
+	border-bottom: 10px dashed orangered; 
+}
+button{
+    margin-right: 10px;
+}
+.jumb{
+	 height: 25px;
+}
+.navbar-light .navbar-nav .nav-link{
+	background-color: transparent;
+	color: white;
+	margin-left: 10px;
+}
+.navbar-light .navbar-brand
+{
+	color: white;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+       color: white;
+
+}
+.dropdown{
+	color: white;
+}
+.navbar{
+	padding: 0px;
+}
+.card-text{
+	 color: white; 
+}
+.image{
+	height: 300px;
+}
+.row{
+	margin-left: 15px;
+}
+.card{
+	 background-color: black;
+	 color: white;
+	 height: 300px;
+}
+.form-control{
+	width: 100px;
+	}
+
+
+}
+.heading{
+	font-size:50px;
+}
+
+
+
+
+
